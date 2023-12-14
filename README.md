@@ -4,16 +4,17 @@
 
 ---
 
-🔍 **Focused Areas:** Data Analysis, ETL Process, Data Management, and Technical Education.
+🔍 **Focused Areas:** Python Software Development, ETL Process, Data Management, and Technical Education.
 
-🌟 **Technologies:** Python, PostgreSQL, Matlab, R, Java, Git, Excel, Looker Data Studio, PowerBI,  JIRA, Power BI, Bash, Linux.
+🌟 **Technologies:** Python, PostgreSQL, Matlab, R, Java, Git, Excel, Looker Data Studio, PowerBI,  JIRA, Django, Bash, Linux.
 
-🏅 **Experience:** Over 5 years of experience in technology, data analysis, and computer science education.
+🏅 **Experience:** Over 7 years of experience in technology, data analysis, and computer science education.
 
 📈 **Highlights:**
 - Led a project to identify potential investors, leading to an increase in revenue of over **$200,000**.
 - Maintained dynamic **Looker Data Studio** dashboards for real-time monitoring of employee performance KPIs, enhancing data-driven decision-making processes.
 - Led public data processing project for strategic state planning, impacting over 500 people.
+- Managed Linux servers to maintain MOODLE learning environments for more than **23 courses** with approximately **15,000** active users.
 
 📚 **Education:** 
 - Master's in Computer Science, Federal University of Piauí, Brazil.
