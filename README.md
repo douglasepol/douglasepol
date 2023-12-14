@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Douglas Mendes
 
-### Problem Solver working as a Data Analyst
+### Problem Solver working with cool stuff
 
 ---
 
