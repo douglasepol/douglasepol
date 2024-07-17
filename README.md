@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Douglas Mendes
 
-### Problem Solver working with cool stuff
-
 ---
 
-🔍 **Focused Areas:** Python Software Development, ETL Process, Data Management, and Technical Education.
+🔍 **Focused Areas:** Data Engineering, ETL Process, Data Management, Python Software Development and Technical Education.
 
-🌟 **Technologies:** Python, PostgreSQL, Matlab, R, Java, Git, Excel, Looker Data Studio, PowerBI,  JIRA, Django, Bash, Linux.
+🌟 **Technologies:** Python, PostgreSQL, ORACLE, Java, Git, Excel, Looker Data Studio, PowerBI, Django, Bash, Linux.
 
 🏅 **Experience:** Over 7 years of experience in technology, data analysis, and computer science education.
 
