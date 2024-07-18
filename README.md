@@ -34,7 +34,5 @@
   </a>
 
 
-💡 **Fun Fact:** Passionate about continuous learning and exploring new technologies.
-
   ![](https://komarev.com/ghpvc/?username=douglasepol&color=lightgrey)  
 ---
