@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Douglas Mendes
 
 ---
 
-🔍 **Focused Areas:** Data Engineering, ETL Process, Data Management, Python Software Development and Technical Education.
+I have experience with ETL processes, data management, and technical teaching. My skills include advanced use of technologies such as Python, PostgreSQL, Oracle, AWS, Looker Data Studio, and Linux. My approach is based on analytical problem-solving, adaptability, and continuous learning, allowing me to navigate effectively between various functions and technologies.
 
-🌟 **Technologies:** Python, PostgreSQL, ORACLE, Java, Git, Excel, Looker Data Studio, PowerBI, Django, Bash, Linux.
+Throughout my career, I have excelled in leading strategic projects and effectively managing teams and technologies.
 
-🏅 **Experience:** Over 7 years of experience in technology, data analysis, and computer science education.
+One of my main projects involved identifying investors, which resulted in an increase of over US$ 200,000 in company revenue. Additionally, I managed the development of dashboards in Looker Data Studio, significantly enhancing real-time data-driven decision-making.
 
-📚 **Education:** 
-- Master's in Computer Science, Federal University of Piauí, Brazil.
-- Bachelor's in Computer Science, State University of Piauí, Brazil.
+My experience also includes leading a team of 15 people in a socioeconomic research project for state strategic planning, benefiting more than 500 people.
+
+Complementing these initiatives, I administered Linux servers to maintain MOODLE learning environments, supporting approximately 15,000 active users.
 
 ---
 
