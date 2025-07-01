@@ -1,15 +1,17 @@
 
 ---
 
-I have experience with ETL processes, data management, and technical teaching. My skills include advanced use of technologies such as Python, PostgreSQL, Oracle, AWS, Looker Data Studio, and Linux. My approach is based on analytical problem-solving, adaptability, and continuous learning, allowing me to navigate effectively between various functions and technologies.
+I work in Data Engineering and Data Analysis and hold a Master’s degree in Computer Science. I have experience designing ETL pipelines, automating reporting processes, and building data visualizations that support decision-making. I've contributed to both public and private sector projects, working with international teams to deliver practical, data-driven solutions.
 
-Throughout my career, I have excelled in leading strategic projects and effectively managing teams and technologies.
+I’ve developed data pipelines using Python, SQL, and Pentaho, integrated data across PostgreSQL and Oracle, and created interactive dashboards with Looker, Power BI, and Streamlit. My work has supported large-scale operations, including payroll processing for over 110,000 individuals, with a focus on data consistency and automated reporting.
 
-One of my main projects involved identifying investors, which resulted in an increase of over US$ 200,000 in company revenue. Additionally, I managed the development of dashboards in Looker Data Studio, significantly enhancing real-time data-driven decision-making.
+In a separate project, I contributed to data integration and analysis in PostgreSQL, helping the commercial team recover inactive clients and generating over USD 200,000 in additional revenue. I also led a field research team of 15 people in a socioeconomic survey that delivered medical, social, and economic assistance to more than 500 underserved residents.
 
-My experience also includes leading a team of 15 people in a socioeconomic research project for state strategic planning, benefiting more than 500 people.
+These experiences have shaped my ability to deliver scalable, well-documented solutions focused on clarity, reliability, and business value.
 
-Complementing these initiatives, I administered Linux servers to maintain MOODLE learning environments, supporting approximately 15,000 active users.
+I'm interested in challenges related to Data Engineering, Data Analysis, and Backend Development.
+
+Technologies I frequently work with: Python, SQL, Pentaho, PostgreSQL, Oracle, Looker, Power BI, AWS, Git.
 
 ---
 
